@@ -1,0 +1,12 @@
+!.gitignore
+*.json
+.idea
+build
+chains
+test
+temp
+logs
+.DS_Store
+*.xls
+*.xlsx
+zion-test
