@@ -1,8 +1,8 @@
 rm -rf code
 mkdir code
 cd code
-git clone https://github.com/polynetwork/Zion.git
-cd Zion
+git clone https://github.com/devfans/Zion.git
+cd Zion && git checkout develop
 make zion-local
 cp geth ../../
 cd ..
