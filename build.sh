@@ -3,8 +3,8 @@ mkdir code
 cd code
 git clone https://github.com/polynetwork/Zion.git
 cd Zion
-make geth
-cp build/bin/geth ../../
+make zion-local
+cp geth ../../
 cd ..
 git clone https://github.com/siovanus/distribute-check.git
 cd distribute-check
