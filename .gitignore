@@ -1,0 +1,17 @@
+!.gitignore
+*.json
+.idea
+build
+chains
+test
+temp
+code
+logs
+.DS_Store
+*.xls
+*.xlsx
+zion-test
+clean_db
+distribute-check
+wizard
+geth
